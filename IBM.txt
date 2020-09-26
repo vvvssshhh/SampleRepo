@@ -1,0 +1,82 @@
+for data science JAVA Tools
+Weka(data mining)
+Java-ML (ml library)
+Apacha MLlib (scalable ml)
+deepliearning4j
+
+Apache Hadoop (java build application manages data processing and storage running in clusters(HD)
+Scala language
+(for data science APache spark -prvides APIs making parallel jobs easy to write - designesd to run faster than Hadoop)
+deep learning application -tensor flow, apache spark, pytorch, caffe
+Julia is computaional and statatica ml language for data science
+
+
+OPen source softwares and Tools
+Data science work flow and its software
+Data Management - MySQL,PostgreSQL,NOSQL(MongoDB,,Apache CouchDB, Apache Cassandra),Filebadestools(Hadoop HDFS,CEPH)
+Data Integration and Transformation -work ELT (extract,load,transform) (data refining and cleaning) -Apache airflow (AIRBNB), kube flow, APache kafka (linkedin), 				    	     APache nifi(nice visual editor), Apache sparks SQL (uses ansi SQL and uses 1000 computers), node-red (need little resource like 				    	     work on raspberry pi)
+Data Visualization - HUE (create visualization from SQL Querry), kibana (limited to elastic search( text or doc search)), Apache superset (data exploration and 		    		     visualization web application)
+Model Deployment - coverting ML model into API for others - Apache prediction IO(works on APache Spark), seldon(supports Apache sparkml, tensor flow, R, scikit-		   	    learn), mleap, tensor flow service, tensorflow.lite (for raspberry, smartphone), tensorflow.js (deploy to browser)
+Model Monitoring and Assesment - modelDB (Apache spark, scikiit-learns), prometheus, AI firness 360 source tool kit (for bias adjustment), IBM adversialrobustness 360 				 (to detect vulnerable to bad data), IBM AI Explainability 360 (make ml process more understandable , since ml is magic box)
+Code asset management - version management & version control - git (github, gitlab, bit bucket)
+Data asset management - data governance and data lineage (data origin, what happens to it and where it moves over time) - Apache Atalas, ODBI EGERIA, Kylo
+
+
+Development environment, data integration, transfomation, visualization
+Development environment - Jupyter (designed for python, support other languages through kernels), jupyter labs (advanced jupyter notebook), apache zeppelin, spyder, R 			  studio
+Execution environment - if data dosent fit in single memory - APacche spark (cluster computing, batch data processing), APache Flink (lly to APache spark but focus on 			processing real time data processing), Riselab-RAY
+Fully integrated Visual Tools - no programming language is necessary - KNIME, ORANGE (does Data Integration and Transformation ,Data Visualization ,Model Deployment)				(extend by programming in R, Python, APache Spark)
+
+
+
+Commercial tools
+Data Management - oracleDB, microsoftSQL,IBMDB2
+Data Integration and Transformation -INformatica, talend, IBM infosphere datstorage
+Data Visualization - tableau, microsoft power BI, IBM Cognos
+Model building - SPSS 
+Model Deployment - SPSS, SAS
+Model Monitoring and Assesment - none available
+Code asset management - none available
+Data asset management - INformatica 
+
+
+Development environment, data integration, transfomation, visualization
+Development environment - Watson studio (desktop version combines jupyter notebook)
+Execution environment - 
+Fully integrated Visual Tools -Watson studio, H2odriver.ai
+
+
+
+Cloud based tools
+Data Management - amazon dynamoDB, cloudant(Apache cloud DB), IBMDB2
+Data Integration and Transformation -INformatica cloud data, IBM dat refinary
+Data Visualization - DATA meer, IBM cogno analytics, IBM data refinary in watson studio
+Model building - IBM watson ML, Google cloud, 
+Model Deployment -  SPSS collaboration and deployment
+Model Monitoring and Assesment - amazon stage maker model monitor
+Code asset management - none available
+Data asset management - INformatica 
+docker 
+
+Development environment, data integration, transfomation, visualization
+Development environment - 
+Execution environment - 
+Fully integrated Visual Tools and platform -Watson studio+ watson open scale(complete development life cycle for data science, ML, AI),microsofr AZURA, H2Odriverless.ai
+
+
+PYTHON - Model building 
+Scientific computing - pandas(two dimention(rows,columns)), numpy(arrays and matrices)
+Visualizations - mathplotlib, seaborn(heat maps, time series, violen plots)
+Machine learning, AI, Modeling - scikit-learn(build on numpy,scipy,mathplotlib), Keras(deep learning, CNN)
+Deep learning - tensor flow, PYtorch
+
+APache Spark- Model building -used on cluster computing
+Spart Data processing can use Python, R, SCALA, SQL
+
+SCALA
+Visualization - VEGAS
+Deep learing - Big DL
+
+R
+Visualition - Ggplot2, can us e tensor flow, keras
+
