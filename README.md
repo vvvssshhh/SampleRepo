@@ -1,3 +1,3 @@
 # SampleRepo
 ## Editing the file
-testing the Geithub
+testing the Geithub edit test
